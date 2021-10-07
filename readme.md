@@ -1,7 +1,7 @@
 How to use Spotify To Youtube
 
 
-1-select the playlist you want to transfer
+1-Select the playlist you want to transfer
 
 
   ![Picture1](https://user-images.githubusercontent.com/86228168/136431643-6740ba1e-d6e2-4fd0-b712-0c12e4a9b5ee.jpg)
